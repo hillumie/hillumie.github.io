@@ -26,8 +26,8 @@ profile:
         <a href="/assets/pdf/Official_CV.pdf" title="CV" aria-label="CV"><i class="ai ai-cv"></i></a>
         <a href="mailto:huynt.19@grad.uit.edu.vn" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=3L-XFRwAAAAJ" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        <a href="https://x.com/huynt07" title="X" aria-label="X"><i class="fa-brands fa-x-twitter"></i></a>
-        <a href="https://github.com/nthuy07" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+        <a href="https://x.com/hillumie" title="X" aria-label="X"><i class="fa-brands fa-x-twitter"></i></a>
+        <a href="https://github.com/hillumie" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
         <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-0432002b0/" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
       </div>
     </div>
@@ -48,4 +48,4 @@ latest_posts:
 
 Hi! I am a Master’s student at the University of Information Technology and a researcher at the Evolutionary Learning and Optimization (ELO) Lab, advised by Dr. [Ngoc Hoang Luong](https://sites.google.com/view/hoangluong).
 
-My current research explores how Quality-Diversity methods can be applied to generative AI for diverse data generation across different tasks. Going forward, I am excited to study how to design adaptive online learning agents that continually update from new experience, with open-ended task generation guiding them toward increasingly complex behaviors.
+My current research explores how Quality-Diversity methods can be applied to generative AI for diverse data generation across different tasks. Going forward, I am excited to study open-ended learning for agents that can continually adapt and discover new, complex behaviors under real-world constraints.
