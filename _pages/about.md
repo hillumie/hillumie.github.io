@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MSc Student in CS, University of Information Technology (UIT)</a>
+subtitle: <a href='https://www.uit.edu.vn'>MSc Student in CS, University of Information Technology (UIT)</a>
 
 profile:
   align: right
@@ -46,6 +46,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Master’s student at the University of Information Technology and a researcher at the Evolutionary Learning and Optimization (ELO) Lab, advised by Dr. [Ngoc Hoang Luong](https://sites.google.com/view/hoangluong).
+Hi! I am a Master’s student at the University of Information Technology and a researcher at the [Evolutionary Learning and Optimization (ELO)](https://sites.google.com/view/evolve-learn-optimize/home) Lab, advised by Dr. [Ngoc Hoang Luong](https://sites.google.com/view/hoangluong).
 
 My current research explores how Quality-Diversity methods can be applied to generative AI for diverse data generation across different tasks. Going forward, I am excited to study open-ended learning for agents that can continually adapt and discover new, complex behaviors under real-world constraints.
